@@ -1,2 +1,3 @@
-# connect-AML-to-Azure-OpenAI
-Connect Azure Machine Learning with Azure OpenAI, with AAD identity or managed identities.
+# Azure Machine Learning <3 OpenAI
+
+Learn how to connect Azure Machine Learning with Azure OpenAI, without the use of shared API keys.
